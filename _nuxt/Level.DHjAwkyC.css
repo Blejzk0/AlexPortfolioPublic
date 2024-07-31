@@ -1,0 +1,1 @@
+.flick{animation:flick 1s step-start 3}@keyframes flick{0%{opacity:0}50%{opacity:1}to{opacity:0}}
