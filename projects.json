@@ -1,0 +1,80 @@
+
+[
+    {
+        "image_src": "/projects/jordan_shoes_box.webp",
+        "image_description": "Nike Air Jordan 4 Box",
+
+        "title": "Nike Air Jordan 4 Box",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/blue_keyboard.webp",
+        "image_description": "Blue & White KeyBaord",
+
+        "title": "Blue & White KeyBaord",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/redbull_drink_in_ice.webp",
+        "image_description": "RedBull in ice",
+        
+        "title": "RedBull in ice",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/rolex_watch_in_box.webp",
+        "image_description": "Luxury rolex watch in green box",
+
+        "title": "Rolex Watch",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/green_bmw_m5.webp",
+        "image_description": "Green BMW in modern shiny garage",
+
+        "title": "Car detailing",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/grafity_train.webp",
+        "image_description": "Grafity on the train",
+
+        "title": "Grafity train",
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/gray_bmw_m3.mp4",
+        "image_description": "grayscale image of bmw m3 in the street",
+
+        "title": "CGI BMW M3",   
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/european-japanes_car_service.jpeg",
+        "image_description": "open car mechanic garage at noon",
+
+        "title": "Mechanic Shop",   
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/breaking_bad.jpg",
+        "image_description": "Breaking bad dust caravan.",
+
+        "title": "Breaking Bad",   
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/highway_black_mercedes.mp4",
+        "image_description": "Black mercedes driving on the highway.",
+
+        "title": "Mercedes",   
+        "year": 2024
+    },
+    {
+        "image_src": "/projects/bmwm2_in_middle_of_street.mp4",
+        "image_description": "Gray bmw M2 in middle of the street of city",
+
+        "title": "BMW M2",   
+        "year": 2024
+    }
+]

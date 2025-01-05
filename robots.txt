@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: *
+Sitemap: https://alexlenart.com/sitemap.xml
