@@ -77,4 +77,11 @@
         "title": "BMW M2",   
         "year": 2024
     }
+    {
+        "image_src": "/projects/bmwm3cs_parking_lot.mp4",
+        "image_description": "White BMW M3cs in parking lot",
+
+        "title": "BMW M3cs",   
+        "year": 2025
+    }
 ]
