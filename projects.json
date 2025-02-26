@@ -83,5 +83,12 @@
 
         "title": "BMW M3cs",   
         "year": 2025
+    },
+    {
+        "image_src": "/projects/bmwm4csl_parked.mp4",
+        "image_description": "BMW M4csl parked next to house",
+
+        "title": "BMW M4csl",   
+        "year": 2025
     }
 ]
